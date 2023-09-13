@@ -56,7 +56,7 @@ require('dotenv').config();
 const result_data = require('./result.json')
 const invest_address = require('./invest_address.json')
 let finial_result = []
-let r = result_data.slice(0, 20).map(async (addr) => {
+let r = result_data.map(async (addr) => {
     let count = 1;
     await axios({
         method: 'post',
@@ -77,6 +77,8 @@ let r = result_data.slice(0, 20).map(async (addr) => {
         console.log(error)
         data = false
     });
+    const delay = ms => new Promise(resolve => setTimeout(resolve, ms))
+    await delay(3000)
     await axios({
         method: 'post',
         url: "https://joystream.api.subscan.io/api/scan/transfers",
@@ -94,10 +96,11 @@ let r = result_data.slice(0, 20).map(async (addr) => {
         data.forEach(element => {
             if (invest_address.find((el) => el == element.from)) {
                 finial_result.push({ address: element.from, amount: element.amount })
-                console.log(element.from, element.to, element.amount)
+                console.log("from: "+element.from +" to: "+ element.to +" amount: "+ element.amount + "\n")
             }
         });
     }).catch(function (error) {
+        console.log(error)
         data = false
     });
     return true;

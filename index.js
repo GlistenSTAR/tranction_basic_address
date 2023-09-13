@@ -53,58 +53,68 @@ require('dotenv').config();
 
 const middleAddress = require('./UserAddressOnMEXC.json')
 const invest_address = require('./invest_address.json')
+const handleList = require('./handle_list.json')
 let finial_result = []
-let r = middleAddress.map(async (addr) => {
-    // let r = middleAddressAmount.map(async (item) => {
-    // let count = 1, result_amount = [];
-    // await axios({
-    //     method: 'post',
-    //     url: "https://joystream.api.subscan.io/api/scan/transfers",
-    //     headers: {
-    //         "Content-Type": "application/json",
-    //         "X-API-Key": process.env.SUBSCAN_API,
-    //     },
-    //     data: {
-    //         "row": 1,
-    //         "address": addr,
-    //         "direction": "received"
-    //     }
-    // }).then(async (res) => {
-    //     count = res.data.data.count
-    //     console.log({ "address": addr, "amount": count })
-    //     finial_result.push({ "address": addr, "amount": count })
-    //     return { address: addr, amount: count }
-    // }).catch(function (error) {
-    //     console.log("error " + addr)
-    //     data = false
-    // });
 
-    await axios({
-        method: 'post',
-        url: "https://joystream.api.subscan.io/api/scan/transfers",
-        headers: {
-            "Content-Type": "application/json",
-            "X-API-Key": process.env.SUBSCAN_API,
-        },
-        data: {
-            "row": 1000,
-            "address": addr,
-            "direction": "received"
-        }
-    }).then(function (res) {
-        data = res.data.data.transfers
-        data.forEach(element => {
-            if (invest_address.find((el) => el == element.from)) {
-                finial_result.push({ address: element.from, amount: element.amount })
-                console.log("from: "+element.from +" to: "+ element.to +" amount: "+ element.amount + "\n")
+example = async () => {
+    for (addr of middleAddress) {
+        await axios({
+            method: 'post',
+            url: "https://joystream.api.subscan.io/api/scan/transfers",
+            headers: {
+                "Content-Type": "application/json",
+                "X-API-Key": process.env.SUBSCAN_API,
+            },
+            data: {
+                "row": 100,
+                "address": addr,
+                "direction": "received"
             }
+        }).then(function (res) {
+            data = res.data.data.transfers
+            data.forEach(element => {
+                if (invest_address.find((el) => el == element.from)) {
+                    finial_result.push({ address: element.from, amount: element.amount })
+                    handlerName = handleList.find((handle)=> {
+                        if(handle.roleAccount == element.from){
+                            return handle.membership.handle
+                        }
+                    })
+                    console.log("from: " + element.from + " to: " + element.to + " handle: " + handlerName.membership.handle + " amount: " + element.amount)
+                }
+            });
+        }).catch(function (error) {
+            console.log(error)
+            // console.log("error" + addr)
+            data = false
         });
-    }).catch(function (error) {
-        console.log("error"+ item.address)
-        data = false
-    });
-})
+    }
+};
 
-console.log(finial_result)
+example()
 
-
+// middleAddress.map(async (addr) => {
+//     // let r = middleAddressAmount.map(async (item) => {
+//     // let count = 1, result_amount = [];
+//     // await axios({
+//     //     method: 'post',
+//     //     url: "https://joystream.api.subscan.io/api/scan/transfers",
+//     //     headers: {
+//     //         "Content-Type": "application/json",
+//     //         "X-API-Key": process.env.SUBSCAN_API,
+//     //     },
+//     //     data: {
+//     //         "row": 1,
+//     //         "address": addr,
+//     //         "direction": "received"
+//     //     }
+//     // }).then(async (res) => {
+//     //     count = res.data.data.count
+//     //     console.log({ "address": addr, "amount": count })
+//     //     finial_result.push({ "address": addr, "amount": count })
+//     //     return { address: addr, amount: count }
+//     // }).catch(function (error) {
+//     //     console.log("error " + addr)
+//     //     data = false
+//     // });
+// })

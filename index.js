@@ -1,6 +1,5 @@
 const axios = require('axios');
 const fs = require('fs');
-const readline = require('linebyline')
 
 require('dotenv').config();
 
@@ -52,12 +51,34 @@ require('dotenv').config();
 // }
 // get_related_address()
 
-
-const result_data = require('./result.json')
+const middleAddress = require('./UserAddressOnMEXC.json')
 const invest_address = require('./invest_address.json')
 let finial_result = []
-let r = result_data.map(async (addr) => {
-    let count = 1;
+let r = middleAddress.map(async (addr) => {
+    // let r = middleAddressAmount.map(async (item) => {
+    // let count = 1, result_amount = [];
+    // await axios({
+    //     method: 'post',
+    //     url: "https://joystream.api.subscan.io/api/scan/transfers",
+    //     headers: {
+    //         "Content-Type": "application/json",
+    //         "X-API-Key": process.env.SUBSCAN_API,
+    //     },
+    //     data: {
+    //         "row": 1,
+    //         "address": addr,
+    //         "direction": "received"
+    //     }
+    // }).then(async (res) => {
+    //     count = res.data.data.count
+    //     console.log({ "address": addr, "amount": count })
+    //     finial_result.push({ "address": addr, "amount": count })
+    //     return { address: addr, amount: count }
+    // }).catch(function (error) {
+    //     console.log("error " + addr)
+    //     data = false
+    // });
+
     await axios({
         method: 'post',
         url: "https://joystream.api.subscan.io/api/scan/transfers",
@@ -66,28 +87,7 @@ let r = result_data.map(async (addr) => {
             "X-API-Key": process.env.SUBSCAN_API,
         },
         data: {
-            "row": 1,
-            "address": addr,
-            "direction": "received"
-        }
-    }).then(function (res) {
-        count = res.data.data.count
-        console.log(count)
-    }).catch(function (error) {
-        console.log(error)
-        data = false
-    });
-    const delay = ms => new Promise(resolve => setTimeout(resolve, ms))
-    await delay(3000)
-    await axios({
-        method: 'post',
-        url: "https://joystream.api.subscan.io/api/scan/transfers",
-        headers: {
-            "Content-Type": "application/json",
-            "X-API-Key": process.env.SUBSCAN_API,
-        },
-        data: {
-            "row": count,
+            "row": 1000,
             "address": addr,
             "direction": "received"
         }
@@ -100,11 +100,11 @@ let r = result_data.map(async (addr) => {
             }
         });
     }).catch(function (error) {
-        console.log(error)
+        console.log("error"+ item.address)
         data = false
     });
-    return true;
 })
-console.log(r)
+
+console.log(finial_result)
 
 

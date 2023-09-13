@@ -1,0 +1,1018 @@
+  "workers": [
+      {
+        "membership": {
+          "handle": "l1dev"
+        },
+        "roleAccount": "j4SWVha668Nv1YroUkQB68yzfSAjp5xJg4dsXCcKjXJSLwwoa",
+        "rewardAccount": "j4SWVha668Nv1YroUkQB68yzfSAjp5xJg4dsXCcKjXJSLwwoa",
+        "stakeAccount": "j4S8usvaKAZZdYpj9Hp4wsTYbRSh9hg4NwezX5XjXUFWyTvr1"
+      },
+      {
+        "membership": {
+          "handle": "l1dev"
+        },
+        "roleAccount": "j4VgJtzZKvFbamrzhNATcK69HBrouazF7kx9bnWqQt3zNGKPQ",
+        "rewardAccount": "j4RP5odJ8pDGFdaCK3a8kEefHwTXvtzz8C3R1G6o9tF5ALwRz",
+        "stakeAccount": "j4Wg7JSHHLQpxFQfhEB9T57bbeSjFNKpFcoppifCNj3VxWj4C"
+      },
+      {
+        "membership": {
+          "handle": "sieemma"
+        },
+        "roleAccount": "j4UrcybVQA8MDYowxCHAn9Bqes8rkMCa4TaZyk6CjgKrvAdMZ",
+        "rewardAccount": "j4V3hmQj2pj4ZsiZVByeyNLXhjkfGMYdngeexaZFLVhhEwVM1",
+        "stakeAccount": "j4UmX48hZV6QnQvFbh8qrDGafbQ8iQ9PjeVGNB1yzSVKfZf6F"
+      },
+      {
+        "membership": {
+          "handle": "freakstatic"
+        },
+        "roleAccount": "j4Uks3Hc4Y7kZhTvoXu8v4ZBwB45XQ3FBAoBeEXkeHKr7Msev",
+        "rewardAccount": "j4Uks3Hc4Y7kZhTvoXu8v4ZBwB45XQ3FBAoBeEXkeHKr7Msev",
+        "stakeAccount": "j4WFTAHWkEtTtgmVocg6vLFiEygbneMGjgA1RnSVMwk2tBGBQ"
+      },
+      {
+        "membership": {
+          "handle": "yyagi"
+        },
+        "roleAccount": "j4RebjBfiGWUnBZiiHGwergmwfvU23iitYzkoXv37kbfnQpHv",
+        "rewardAccount": "j4RS8GVduydeEdrfqWCrGL3HsYd6gXgxhCnTE6XzpfPic6CAA",
+        "stakeAccount": "j4T1HMi4y2nBSR9Ai8AsAWYBLHN5D94Qx1xqypJdgeXRg9GpS"
+      },
+      {
+        "membership": {
+          "handle": "gyroflaw"
+        },
+        "roleAccount": "j4Vs3k1p6oEpPUeVzF98ipWU4Fw94HynjmEkyqz9PLEHMyQVf",
+        "rewardAccount": "j4Vs3k1p6oEpPUeVzF98ipWU4Fw94HynjmEkyqz9PLEHMyQVf",
+        "stakeAccount": "j4WtVtzLfgWAgdDEYvpGy5UuJ9eSPkcUc6omUac57NhGxhh1h"
+      },
+      {
+        "membership": {
+          "handle": "songoku"
+        },
+        "roleAccount": "j4VTYS8htf247tq2hM3MgtUaW6V3AzmXq2vDdgv5EjCKHtg3L",
+        "rewardAccount": "j4TsEndyMEzxs2MYhenRPiyDP9VYmFjWGudyL29j9rdrw8Dwh",
+        "stakeAccount": "j4TsEndyMEzxs2MYhenRPiyDP9VYmFjWGudyL29j9rdrw8Dwh"
+      },
+      {
+        "membership": {
+          "handle": "ivant"
+        },
+        "roleAccount": "j4WQQmpyK4x8Dpd4jUSbg7HRQGeZiLRaGCrZHzuHXSYqNuw2a",
+        "rewardAccount": "j4WQQmpyK4x8Dpd4jUSbg7HRQGeZiLRaGCrZHzuHXSYqNuw2a",
+        "stakeAccount": "j4WQQmpyK4x8Dpd4jUSbg7HRQGeZiLRaGCrZHzuHXSYqNuw2a"
+      },
+      {
+        "membership": {
+          "handle": "mkblockchaindev"
+        },
+        "roleAccount": "j4V6SRWboethmSjWi6JE7A2sYdAmQtn1oTT1PwMdcpi7rUC7k",
+        "rewardAccount": "j4UdvyWC8dGtUt2x4crAVWDYaY2u6eXNtoAofRDQieqQoRPRU",
+        "stakeAccount": "j4UdvyWC8dGtUt2x4crAVWDYaY2u6eXNtoAofRDQieqQoRPRU"
+      },
+      {
+        "membership": {
+          "handle": "chaos77"
+        },
+        "roleAccount": "j4UHF2zrsRMt5AkG25bejNmyKvkunkQ2StTcbjzJhvWJGjjuf",
+        "rewardAccount": "j4UHF2zrsRMt5AkG25bejNmyKvkunkQ2StTcbjzJhvWJGjjuf",
+        "stakeAccount": "j4UHF2zrsRMt5AkG25bejNmyKvkunkQ2StTcbjzJhvWJGjjuf"
+      },
+      {
+        "membership": {
+          "handle": "membership_faucet2"
+        },
+        "roleAccount": "j4TNjUN3wbDcTMGH79j8Q3XH2QNgsPv3eV1xei1oyDNUocQw1",
+        "rewardAccount": "j4TNjUN3wbDcTMGH79j8Q3XH2QNgsPv3eV1xei1oyDNUocQw1",
+        "stakeAccount": "j4TNjUN3wbDcTMGH79j8Q3XH2QNgsPv3eV1xei1oyDNUocQw1"
+      },
+      {
+        "membership": {
+          "handle": "0x2bc"
+        },
+        "roleAccount": "j4Sn44xz2n6daCrtdCUiHaLKSnQ5xoVDWYd5s3kY8hUpfEuVd",
+        "rewardAccount": "j4Sn44xz2n6daCrtdCUiHaLKSnQ5xoVDWYd5s3kY8hUpfEuVd",
+        "stakeAccount": "j4TZCtYW7o54th2TZR54t3Umq8soVFjdd3sr2T1StYg95HXMm"
+      },
+      {
+        "membership": {
+          "handle": "joystreamstats"
+        },
+        "roleAccount": "j4RP5odJ8pDGFdaCK3a8kEefHwTXvtzz8C3R1G6o9tF5ALwRz",
+        "rewardAccount": "j4RP5odJ8pDGFdaCK3a8kEefHwTXvtzz8C3R1G6o9tF5ALwRz",
+        "stakeAccount": "j4UmFRboemp4uyJ5hpa5ukgnAUsyA4pU2WJBjLRQKvZHP8gCJ"
+      },
+      {
+        "membership": {
+          "handle": "maxlevush"
+        },
+        "roleAccount": "j4WE4Dkq3FjRCu5NbRsYk9GZhVJNRQyQsBa1VLVHzBEzv3p31",
+        "rewardAccount": "j4WE4Dkq3FjRCu5NbRsYk9GZhVJNRQyQsBa1VLVHzBEzv3p31",
+        "stakeAccount": "j4TQRtqGNimV22qSofEDQLShcQquzT2JLKY1NW2SGAbjVjEMT"
+      },
+      {
+        "membership": {
+          "handle": "lkskrn"
+        },
+        "roleAccount": "j4UKaDqmtB9ZLSozEjWiujq7wmvGV18cLpssqHQz1boSvHrgj",
+        "rewardAccount": "j4UKaDqmtB9ZLSozEjWiujq7wmvGV18cLpssqHQz1boSvHrgj",
+        "stakeAccount": "j4UKaDqmtB9ZLSozEjWiujq7wmvGV18cLpssqHQz1boSvHrgj"
+      },
+      {
+        "membership": {
+          "handle": "leet_joy"
+        },
+        "roleAccount": "j4Tgk9dFzGMZk4hW25k9uf4gWfBN8vg3SAc8xbDeQpDyNGEDG",
+        "rewardAccount": "j4TZHG7owBRZWSbNG6RhiE4hrRdTZvc6yqGUTdVcEKCu9HFnN",
+        "stakeAccount": "j4U6QUxnCrhhbxaLyqXNq6VnVH1Bq5MBzo8wkjaPDsSzUZdbF"
+      },
+      {
+        "membership": {
+          "handle": "goksel"
+        },
+        "roleAccount": "j4Ww7y4Yq7Y2PNrBAEfrqnEUSknmbiyYenX8vEWcU32hfoCRE",
+        "rewardAccount": "j4Rv6GucDevpqErho1LzH7afkVJ1cCUfM1f6x1W8tbtu8wykU",
+        "stakeAccount": "j4UuEeS4BopKC4P7MfG5zS3Bmbyp7933GVQCGqKK5vaDqpzRP"
+      },
+      {
+        "membership": {
+          "handle": "0x2bc"
+        },
+        "roleAccount": "j4Sn44xz2n6daCrtdCUiHaLKSnQ5xoVDWYd5s3kY8hUpfEuVd",
+        "rewardAccount": "j4Sn44xz2n6daCrtdCUiHaLKSnQ5xoVDWYd5s3kY8hUpfEuVd",
+        "stakeAccount": "j4Tn8LP8C3Hiptqa6a1jaKQAVW1pkJW4pUvMUbe15zcgvSmvH"
+      },
+      {
+        "membership": {
+          "handle": "Craci_BwareLabs"
+        },
+        "roleAccount": "j4W3MyTMo8XFuUtVTNvyhZmvTAA89yPWEdw7Bp8QfvbokNP4k",
+        "rewardAccount": "j4WUc3GorqN7WGKqQfYzoaWv7YW57pjvY6cCcxmGbc6qnvA3P",
+        "stakeAccount": "j4VdVy98eZt5F1mmxLPUA1he37aHM2qrrw2RWpEDkCrJpmTus"
+      },
+      {
+        "membership": {
+          "handle": "vikan#4315"
+        },
+        "roleAccount": "j4UQ7kLi2cRy2th6VDTyKrjEKcmeGtGnSp98jN1t6uFsTmWKY",
+        "rewardAccount": "j4W5aVefUvjRKnLtAfgzK7XRW3MjJP5D7dwvMde2CX6KD2E8B",
+        "stakeAccount": "j4UQ7kLi2cRy2th6VDTyKrjEKcmeGtGnSp98jN1t6uFsTmWKY"
+      },
+      {
+        "membership": {
+          "handle": "joystreamstats"
+        },
+        "roleAccount": "j4RP5odJ8pDGFdaCK3a8kEefHwTXvtzz8C3R1G6o9tF5ALwRz",
+        "rewardAccount": "j4RP5odJ8pDGFdaCK3a8kEefHwTXvtzz8C3R1G6o9tF5ALwRz",
+        "stakeAccount": "j4ShDDq5ehoNwX4gVuveT3oNRju4HaNzK6jfCeU8vuQoQY9PG"
+      },
+      {
+        "membership": {
+          "handle": "adovrn"
+        },
+        "roleAccount": "j4SuXegnqnVuQnFxhEwKors3o3vXSsHT3pZbMJiYrymTCSbBq",
+        "rewardAccount": "j4ReHfvmr1uFDmuGYpDFJuxrZZPzHqYj6k4A8PuoyBCcaZcJw",
+        "stakeAccount": "j4SuXegnqnVuQnFxhEwKors3o3vXSsHT3pZbMJiYrymTCSbBq"
+      },
+      {
+        "membership": {
+          "handle": "igrex"
+        },
+        "roleAccount": "j4WJbsscZ1294iH422vh6h2fmXdYYdzATaN8YJpEYNnVGqyux",
+        "rewardAccount": "j4WJbsscZ1294iH422vh6h2fmXdYYdzATaN8YJpEYNnVGqyux",
+        "stakeAccount": "j4UYqMxXGkCPuDBpNNfiDL7KjxyhscCMf6tQ5qxXax7FD6DQ5"
+      },
+      {
+        "membership": {
+          "handle": "klaudiusz"
+        },
+        "roleAccount": "j4VzAH7fhqvCF4pffaVjXXcWGj1pPnGLcVqod32M2fzhUHvEY",
+        "rewardAccount": "j4RRLbsASaTWzNCc7MrptbCFo85nrN49B1ZhAUL88HmdkiBQ9",
+        "stakeAccount": "j4V6JBevWyG9NZ25MSMgFQY6HfzsRWQQsqsWhuuMuDKTL3PPh"
+      },
+      {
+        "membership": {
+          "handle": "polikosi"
+        },
+        "roleAccount": "j4UKLSw7CbwN3tw7Ye6V3THKoKqmKc8i2Q1dF1taXAxEuRuJZ",
+        "rewardAccount": "j4UKLSw7CbwN3tw7Ye6V3THKoKqmKc8i2Q1dF1taXAxEuRuJZ",
+        "stakeAccount": "j4UKLSw7CbwN3tw7Ye6V3THKoKqmKc8i2Q1dF1taXAxEuRuJZ"
+      },
+      {
+        "membership": {
+          "handle": "jsmoon"
+        },
+        "roleAccount": "j4SWVha668Nv1YroUkQB68yzfSAjp5xJg4dsXCcKjXJSLwwoa",
+        "rewardAccount": "j4RP5odJ8pDGFdaCK3a8kEefHwTXvtzz8C3R1G6o9tF5ALwRz",
+        "stakeAccount": "j4WaXsNuFGZutCq8tcaAEmee3xnctgyD8tPKVUPefKFFs6NyX"
+      },
+      {
+        "membership": {
+          "handle": "dmtrmltsv"
+        },
+        "roleAccount": "j4SpENjFETeibChHNPxMGB5RNWRWvFv8rkdpS9WwYDgSCfmVY",
+        "rewardAccount": "j4SpENjFETeibChHNPxMGB5RNWRWvFv8rkdpS9WwYDgSCfmVY",
+        "stakeAccount": "j4SpENjFETeibChHNPxMGB5RNWRWvFv8rkdpS9WwYDgSCfmVY"
+      },
+      {
+        "membership": {
+          "handle": "spat_sochi"
+        },
+        "roleAccount": "j4S47wTFNZNXW3PeyerymhF9smDfDLFgXHgUnmKSwcGtPhyhi",
+        "rewardAccount": "j4S47wTFNZNXW3PeyerymhF9smDfDLFgXHgUnmKSwcGtPhyhi",
+        "stakeAccount": "j4TQX5hwfCoyqG3fxf88uVkKHcUmZssR8dDbU9EnBxVmge6Sm"
+      },
+      {
+        "membership": {
+          "handle": "Codefikeyz"
+        },
+        "roleAccount": "j4TZJCACAWao9bnh5k86qeRW2QhNVNkf9eEw1Vz4V8ZeqD4u4",
+        "rewardAccount": "j4TZJCACAWao9bnh5k86qeRW2QhNVNkf9eEw1Vz4V8ZeqD4u4",
+        "stakeAccount": "j4TZJCACAWao9bnh5k86qeRW2QhNVNkf9eEw1Vz4V8ZeqD4u4"
+      },
+      {
+        "membership": {
+          "handle": "vikan#4315"
+        },
+        "roleAccount": "j4W5aVefUvjRKnLtAfgzK7XRW3MjJP5D7dwvMde2CX6KD2E8B",
+        "rewardAccount": "j4UQ7kLi2cRy2th6VDTyKrjEKcmeGtGnSp98jN1t6uFsTmWKY",
+        "stakeAccount": "j4W5aVefUvjRKnLtAfgzK7XRW3MjJP5D7dwvMde2CX6KD2E8B"
+      },
+      {
+        "membership": {
+          "handle": "goksel"
+        },
+        "roleAccount": "j4S6DMkRmh3923JJnvsszBZYEiq8AMApF8NCjUvVrpU2PUZhP",
+        "rewardAccount": "j4SZJVC3FQ5BBQzWNoTbtpb6f5BJp3XVfivZx45poNn3X79tN",
+        "stakeAccount": "j4VMXZRm5i2vJK4jf4idC4PLJfVcvydhX6XW2EGHuLbAcNMXC"
+      },
+      {
+        "membership": {
+          "handle": "ninjafire"
+        },
+        "roleAccount": "j4Wm7ToKF54TbBEPJZyf3bAobDtd8vxKZb6A54Dzs2s5uzgNy",
+        "rewardAccount": "j4Wm7ToKF54TbBEPJZyf3bAobDtd8vxKZb6A54Dzs2s5uzgNy",
+        "stakeAccount": "j4Wm7ToKF54TbBEPJZyf3bAobDtd8vxKZb6A54Dzs2s5uzgNy"
+      },
+      {
+        "membership": {
+          "handle": "ImStaked"
+        },
+        "roleAccount": "j4VQhJmJrEPyFXF3tA8GPXZ4LJ2qcAk6JVXfDytCJSgJmM9L3",
+        "rewardAccount": "j4VQhJmJrEPyFXF3tA8GPXZ4LJ2qcAk6JVXfDytCJSgJmM9L3",
+        "stakeAccount": "j4VQhJmJrEPyFXF3tA8GPXZ4LJ2qcAk6JVXfDytCJSgJmM9L3"
+      },
+      {
+        "membership": {
+          "handle": "crptowolf"
+        },
+        "roleAccount": "j4WQJ9AtQR2BaXMTd3QtCGSqga1jJCwG8DM311V3TbbQf4hGm",
+        "rewardAccount": "j4TRCwX6FXcjQwZ1HoL681zm51c3EYTTMRN2AScAQnXvzXLG5",
+        "stakeAccount": "j4WQJ9AtQR2BaXMTd3QtCGSqga1jJCwG8DM311V3TbbQf4hGm"
+      },
+      {
+        "membership": {
+          "handle": "dapplooker"
+        },
+        "roleAccount": "j4WB9uYqBDeN83NdYJJzgvJmVFP9qU239uZeJj4qfChXGiPAN",
+        "rewardAccount": "j4WB9uYqBDeN83NdYJJzgvJmVFP9qU239uZeJj4qfChXGiPAN",
+        "stakeAccount": "j4WB9uYqBDeN83NdYJJzgvJmVFP9qU239uZeJj4qfChXGiPAN"
+      },
+      {
+        "membership": {
+          "handle": "igrex"
+        },
+        "roleAccount": "j4WJbsscZ1294iH422vh6h2fmXdYYdzATaN8YJpEYNnVGqyux",
+        "rewardAccount": "j4WJbsscZ1294iH422vh6h2fmXdYYdzATaN8YJpEYNnVGqyux",
+        "stakeAccount": "j4RnAJTiWE6siJ8F3vyxutzaQQvPbcRtyhvWXBQ5ExbGWzUci"
+      },
+      {
+        "membership": {
+          "handle": "lkskrn"
+        },
+        "roleAccount": "j4VKJg7RoJbS7hVh22h7o6NxXnsV8nUPEDPYoTW8DMuFeUzKS",
+        "rewardAccount": "j4VKJg7RoJbS7hVh22h7o6NxXnsV8nUPEDPYoTW8DMuFeUzKS",
+        "stakeAccount": "j4VKJg7RoJbS7hVh22h7o6NxXnsV8nUPEDPYoTW8DMuFeUzKS"
+      },
+      {
+        "membership": {
+          "handle": "Deathix"
+        },
+        "roleAccount": "j4Tb3LNKCCmGbDz1c8QDYNhoab9ZYWv2bLDaCk2bfpNmRKUKN",
+        "rewardAccount": "j4VzVQCng94CUpTK8A9oQuqTZu97Xmpmc3cf2dv9oEWYHygLs",
+        "stakeAccount": "j4Ud852LsFi6tY9pGcm6XGepW4aAymvMQ1pE2YJqUiK5jVf2R"
+      },
+      {
+        "membership": {
+          "handle": "klaudiusz"
+        },
+        "roleAccount": "j4SecYendKjRTChceHhdytj55JfpNXAVjtNT3XWk4kioLLD5X",
+        "rewardAccount": "j4RRLbsASaTWzNCc7MrptbCFo85nrN49B1ZhAUL88HmdkiBQ9",
+        "stakeAccount": "j4VaHWnbNpgMR9jMFGhJ8eT4vFrUiefy5VdhgZa5hMBkHCXya"
+      },
+      {
+        "membership": {
+          "handle": "kira_skipper"
+        },
+        "roleAccount": "j4VQ6PhNbZABqZy1j1Aj3TRLv5D36WaCrNRXDh8jvy8DvdWfu",
+        "rewardAccount": "j4VQ6PhNbZABqZy1j1Aj3TRLv5D36WaCrNRXDh8jvy8DvdWfu",
+        "stakeAccount": "j4VQ6PhNbZABqZy1j1Aj3TRLv5D36WaCrNRXDh8jvy8DvdWfu"
+      },
+      {
+        "membership": {
+          "handle": "Omer_OzdemirTR"
+        },
+        "roleAccount": "j4WwD1Gejccu8KrwBfx8VEKUbwmS55YPTpXnqjmVdyTTMMuAU",
+        "rewardAccount": "j4WwD1Gejccu8KrwBfx8VEKUbwmS55YPTpXnqjmVdyTTMMuAU",
+        "stakeAccount": "j4Wow5hVmRrsd9357H9Bu5GoBrCCsjSrxcExwgo6kUuKQidcj"
+      },
+      {
+        "membership": {
+          "handle": "Mayor Tee"
+        },
+        "roleAccount": "j4VVcNxgVWgic8oetsQE52mj3w77ydxtQ4KeKZfJw3DZFzwT3",
+        "rewardAccount": "j4VVcNxgVWgic8oetsQE52mj3w77ydxtQ4KeKZfJw3DZFzwT3",
+        "stakeAccount": "j4VVcNxgVWgic8oetsQE52mj3w77ydxtQ4KeKZfJw3DZFzwT3"
+      },
+      {
+        "membership": {
+          "handle": "kate_fm"
+        },
+        "roleAccount": "j4WDFZB6UaLeRMj4dqRg8r7w6Je7Dg4HLcLYgcQ6akwb64om8",
+        "rewardAccount": "j4RLiXMehTjxwfpqYU7hrLN1goWKkkvyokVdUXVPogQwiuK3H",
+        "stakeAccount": "j4UVj1vaj5kWjiz2dq1VQiv9ZRnR6ciYjvcDdwVniSHNmbq3d"
+      },
+      {
+        "membership": {
+          "handle": "SpiceTank"
+        },
+        "roleAccount": "j4WvtoUrPgbZWwHKr1fDq7WUdUPXTCs53YvBKAwHbt9yNAUtr",
+        "rewardAccount": "j4UEBcmdaAuC8xUsbxtWvUCzLa9c3weBsH3TTURzdiBwgAi46",
+        "stakeAccount": "j4UjCHon789E8qESyp2ivYgQoWXKU5BhhbqrDcRS5Vkm2ebcy"
+      },
+      {
+        "membership": {
+          "handle": "Mayor Tee"
+        },
+        "roleAccount": "j4UwaC8ne3hZad5H6Tqswb6wHvnxqD57GXXEGgVKzkYxH7STh",
+        "rewardAccount": "j4UwaC8ne3hZad5H6Tqswb6wHvnxqD57GXXEGgVKzkYxH7STh",
+        "stakeAccount": "j4UwaC8ne3hZad5H6Tqswb6wHvnxqD57GXXEGgVKzkYxH7STh"
+      },
+      {
+        "membership": {
+          "handle": "itz"
+        },
+        "roleAccount": "j4VGEacVnEbQXfukJzcXkfXTrUesUUVuV9N7A3jgpo81aGA1X",
+        "rewardAccount": "j4VGEacVnEbQXfukJzcXkfXTrUesUUVuV9N7A3jgpo81aGA1X",
+        "stakeAccount": "j4VGEacVnEbQXfukJzcXkfXTrUesUUVuV9N7A3jgpo81aGA1X"
+      },
+      {
+        "membership": {
+          "handle": "tomato"
+        },
+        "roleAccount": "j4WtP3CTwGBV1XzuPQhY6VuMAJXrzNFPAWbAUywDL53MP7Lpz",
+        "rewardAccount": "j4WtP3CTwGBV1XzuPQhY6VuMAJXrzNFPAWbAUywDL53MP7Lpz",
+        "stakeAccount": "j4TbA9PGTdmyA8EAZ6R5bRoBjJuUSkG2iwGDBFh7matQ4Fkfo"
+      },
+      {
+        "membership": {
+          "handle": "abramaria_"
+        },
+        "roleAccount": "j4Uah52cTTwtK5Ef5jVTYKiCvRzQGAGuDsXKqurUU1vCVYakD",
+        "rewardAccount": "j4RnVddtqAJvRrCw2ewmgd3hoP1gq3J3Qi5tSWHE3p7RGawB8",
+        "stakeAccount": "j4VgWwUS7CUHp8qKmdihhxZTHag2x1zqEQmMsBjxVQAYw2V1n"
+      },
+      {
+        "membership": {
+          "handle": "RogueTemplar2"
+        },
+        "roleAccount": "j4WobEeiKTBCLyTo6z3ka9FMt1SBXZxRTiygvbSc5XmrWJZoG",
+        "rewardAccount": "j4WobEeiKTBCLyTo6z3ka9FMt1SBXZxRTiygvbSc5XmrWJZoG",
+        "stakeAccount": "j4WobEeiKTBCLyTo6z3ka9FMt1SBXZxRTiygvbSc5XmrWJZoG"
+      },
+      {
+        "membership": {
+          "handle": "abramaria_"
+        },
+        "roleAccount": "j4UGzftFxnjnu84A3E9RWsXTFivh9he1pwssqyJBqxGiuAEpy",
+        "rewardAccount": "j4Uah52cTTwtK5Ef5jVTYKiCvRzQGAGuDsXKqurUU1vCVYakD",
+        "stakeAccount": "j4RnVddtqAJvRrCw2ewmgd3hoP1gq3J3Qi5tSWHE3p7RGawB8"
+      },
+      {
+        "membership": {
+          "handle": "TheGrimSavage"
+        },
+        "roleAccount": "j4S1zDDqZF1DFy4z6K3i1Ak9eggPRMGGWXYuTXe79Mcmsh8TU",
+        "rewardAccount": "j4VG4wcaNx5UYvBeBms7XAfcJiXSXGDNoMAzmVt8vJkkZZdKh",
+        "stakeAccount": "j4VG4wcaNx5UYvBeBms7XAfcJiXSXGDNoMAzmVt8vJkkZZdKh"
+      },
+      {
+        "membership": {
+          "handle": "Craci_BwareLabs"
+        },
+        "roleAccount": "j4SGxmEJN3YtgtMbcCseKeJ8D3npeVkBhWq7fdyEgu5gg1Ddi",
+        "rewardAccount": "j4WUc3GorqN7WGKqQfYzoaWv7YW57pjvY6cCcxmGbc6qnvA3P",
+        "stakeAccount": "j4RRHddLqW5SLwL2owHQRfjutGbMLawWA9tq3FtbgyRYn4LrP"
+      },
+      {
+        "membership": {
+          "handle": "l1dev"
+        },
+        "roleAccount": "j4VgJtzZKvFbamrzhNATcK69HBrouazF7kx9bnWqQt3zNGKPQ",
+        "rewardAccount": "j4WaXsNuFGZutCq8tcaAEmee3xnctgyD8tPKVUPefKFFs6NyX",
+        "stakeAccount": "j4SX2fZsSsaatUwPcCWDUGVV5HAd3HoYDWherGrFz5Dg6wJQQ"
+      },
+      {
+        "membership": {
+          "handle": "kriptos"
+        },
+        "roleAccount": "j4Wg5sxcHJmjoHYX1tSpN8BAV985p23TPxSvnoFn9xVC844zF",
+        "rewardAccount": "j4Wg5sxcHJmjoHYX1tSpN8BAV985p23TPxSvnoFn9xVC844zF",
+        "stakeAccount": "j4Wg5sxcHJmjoHYX1tSpN8BAV985p23TPxSvnoFn9xVC844zF"
+      },
+      {
+        "membership": {
+          "handle": "Codefikeyz"
+        },
+        "roleAccount": "j4X2wX6MeA7ZtcU8SCPnM8ndzfAiEB7EXHNwBX3dYiZCDDoL6",
+        "rewardAccount": "j4WyprXAYWdw9Je8q7pEhP3SGNsmcBUHREVS5Vhzr7BxveHaG",
+        "stakeAccount": "j4WrfpDjk9nNsqMtdyZUwW7EeTCrK8jNKRyugZMw2GhkfZxmk"
+      },
+      {
+        "membership": {
+          "handle": "Genius"
+        },
+        "roleAccount": "j4Udsq2aQqnwZ9Xy6zM61EQskUqcM2Zf7of97Xjgi3wgupNrn",
+        "rewardAccount": "j4UTm2sZuzn56yuWDMY3PcrYPonwCd16fa6LS4fBESMW5YiZe",
+        "stakeAccount": "j4T3rpS9nCncyE4ek3iE3NPuJ2DpfDBy3MguxTzqUSLgqXZPw"
+      },
+      {
+        "membership": {
+          "handle": "prontera"
+        },
+        "roleAccount": "j4UGqPQaUrEtj2iRNwsMitgBm3xLajys2AqBAJE3F3s79jXMp",
+        "rewardAccount": "j4UGqPQaUrEtj2iRNwsMitgBm3xLajys2AqBAJE3F3s79jXMp",
+        "stakeAccount": "j4TNTtgFH3EVTwFNd8W9y3J2PyrEJtSqYu7JYyHfgAfffTMFt"
+      },
+      {
+        "membership": {
+          "handle": "arseniy2706"
+        },
+        "roleAccount": "j4Rq8LqRSmCXgSa9zp1zBRTijZ8DBJ3WngD7u6sS1cX79zX7e",
+        "rewardAccount": "j4Rq8LqRSmCXgSa9zp1zBRTijZ8DBJ3WngD7u6sS1cX79zX7e",
+        "stakeAccount": "j4Wiy7wYh4ZsnvqmKBeA2HYcELhqVsxTwgPniYvHhMbT3x26T"
+      },
+      {
+        "membership": {
+          "handle": "jen4ph"
+        },
+        "roleAccount": "j4Wchz5SU9tPTudtV6Rh4GEc7Jgg7xD9SL7r5jr6MSVgrdtrj",
+        "rewardAccount": "j4Wchz5SU9tPTudtV6Rh4GEc7Jgg7xD9SL7r5jr6MSVgrdtrj",
+        "stakeAccount": "j4Wchz5SU9tPTudtV6Rh4GEc7Jgg7xD9SL7r5jr6MSVgrdtrj"
+      },
+      {
+        "membership": {
+          "handle": "Counsellor"
+        },
+        "roleAccount": "j4RRRCqSaBWSUoRSnb1fJzc5tfqkuHv48JxAXDHVF74HseYgx",
+        "rewardAccount": "j4RRRCqSaBWSUoRSnb1fJzc5tfqkuHv48JxAXDHVF74HseYgx",
+        "stakeAccount": "j4RbuRSqvAZzuk8gC313zkJXCjESZSNQ3HAgzqNwqS2dE5xn4"
+      },
+      {
+        "membership": {
+          "handle": "adovrn"
+        },
+        "roleAccount": "j4TpPcwCGBWUjsMXiiMSoJAfihkhNRunCJTdeU9EQEfYgG2Ai",
+        "rewardAccount": "j4TpPcwCGBWUjsMXiiMSoJAfihkhNRunCJTdeU9EQEfYgG2Ai",
+        "stakeAccount": "j4TpPcwCGBWUjsMXiiMSoJAfihkhNRunCJTdeU9EQEfYgG2Ai"
+      },
+      {
+        "membership": {
+          "handle": "mmsaww"
+        },
+        "roleAccount": "j4WaCAHiHiLovxX1x21rE3KKVpR1WatwtGr9qBkCk9SATFzrK",
+        "rewardAccount": "j4V8Y6xbhb5A8x4cYbpzRz4rZmmo4LjwFh9PbRvDuw5HCJHn5",
+        "stakeAccount": "j4V8Y6xbhb5A8x4cYbpzRz4rZmmo4LjwFh9PbRvDuw5HCJHn5"
+      },
+      {
+        "membership": {
+          "handle": "kriptos"
+        },
+        "roleAccount": "j4Wg5sxcHJmjoHYX1tSpN8BAV985p23TPxSvnoFn9xVC844zF",
+        "rewardAccount": "j4Wg5sxcHJmjoHYX1tSpN8BAV985p23TPxSvnoFn9xVC844zF",
+        "stakeAccount": "j4T1WZcQoFbRafmVNKJp39ofwM7Er7GFiQdZ8VQuf77N4UYTL"
+      },
+      {
+        "membership": {
+          "handle": "Ilya_sm"
+        },
+        "roleAccount": "j4V3sLkCPueBqj574ye6anhWCifmXkXfQubtMKa8To8C6nrPd",
+        "rewardAccount": "j4V3sLkCPueBqj574ye6anhWCifmXkXfQubtMKa8To8C6nrPd",
+        "stakeAccount": "j4V3sLkCPueBqj574ye6anhWCifmXkXfQubtMKa8To8C6nrPd"
+      },
+      {
+        "membership": {
+          "handle": "Counsellor"
+        },
+        "roleAccount": "j4RRRCqSaBWSUoRSnb1fJzc5tfqkuHv48JxAXDHVF74HseYgx",
+        "rewardAccount": "j4RRRCqSaBWSUoRSnb1fJzc5tfqkuHv48JxAXDHVF74HseYgx",
+        "stakeAccount": "j4UDeqJWJ5mLWnuhnYNxUYofKHesFdoUpsV5WtwWjZsHZYZqv"
+      },
+      {
+        "membership": {
+          "handle": "Hanzo Hazashi"
+        },
+        "roleAccount": "j4VYSQVz2QjJTAi9xdW4NMzFDnFSF5JJR8cBgheAUAPP45ShT",
+        "rewardAccount": "j4VYSQVz2QjJTAi9xdW4NMzFDnFSF5JJR8cBgheAUAPP45ShT",
+        "stakeAccount": "j4UkvELHJ6xeJVEzA5woNfBGTgJmkjDDUjPMtNCGTXBUVNQwq"
+      },
+      {
+        "membership": {
+          "handle": "Hanzo Hazashi"
+        },
+        "roleAccount": "j4VYSQVz2QjJTAi9xdW4NMzFDnFSF5JJR8cBgheAUAPP45ShT",
+        "rewardAccount": "j4VYSQVz2QjJTAi9xdW4NMzFDnFSF5JJR8cBgheAUAPP45ShT",
+        "stakeAccount": "j4SsmNMQ942Ey1FueGfPj7F5twVvdMdRwXd73jiG4EmwULZ84"
+      },
+      {
+        "membership": {
+          "handle": "Counsellor"
+        },
+        "roleAccount": "j4RRRCqSaBWSUoRSnb1fJzc5tfqkuHv48JxAXDHVF74HseYgx",
+        "rewardAccount": "j4RRRCqSaBWSUoRSnb1fJzc5tfqkuHv48JxAXDHVF74HseYgx",
+        "stakeAccount": "j4RRRCqSaBWSUoRSnb1fJzc5tfqkuHv48JxAXDHVF74HseYgx"
+      },
+      {
+        "membership": {
+          "handle": "ericTron"
+        },
+        "roleAccount": "j4UKwAXXyWyn8cv7U77tdDeWU9LAhiJvzv4xjZUX1B39zXx2B",
+        "rewardAccount": "j4UKwAXXyWyn8cv7U77tdDeWU9LAhiJvzv4xjZUX1B39zXx2B",
+        "stakeAccount": "j4UKwAXXyWyn8cv7U77tdDeWU9LAhiJvzv4xjZUX1B39zXx2B"
+      },
+      {
+        "membership": {
+          "handle": "Genius"
+        },
+        "roleAccount": "j4Udsq2aQqnwZ9Xy6zM61EQskUqcM2Zf7of97Xjgi3wgupNrn",
+        "rewardAccount": "j4SxtBrnANAxTqDKRcJ9wjFy39u2i1AzFZisuz5HxbgUUyH3V",
+        "stakeAccount": "j4Udsq2aQqnwZ9Xy6zM61EQskUqcM2Zf7of97Xjgi3wgupNrn"
+      },
+      {
+        "membership": {
+          "handle": "Create"
+        },
+        "roleAccount": "j4U95VFHhMm3gmmu3hWihSYDZ7rJbmgHPy9PLqhbuwcQsUaQe",
+        "rewardAccount": "j4U95VFHhMm3gmmu3hWihSYDZ7rJbmgHPy9PLqhbuwcQsUaQe",
+        "stakeAccount": "j4U95VFHhMm3gmmu3hWihSYDZ7rJbmgHPy9PLqhbuwcQsUaQe"
+      },
+      {
+        "membership": {
+          "handle": "Umar2"
+        },
+        "roleAccount": "j4U4F8oRY5XVAoCEZQhGSGB9ESSTktWtdBDsJ5kGgwz2g8VUB",
+        "rewardAccount": "j4U4F8oRY5XVAoCEZQhGSGB9ESSTktWtdBDsJ5kGgwz2g8VUB",
+        "stakeAccount": "j4U4F8oRY5XVAoCEZQhGSGB9ESSTktWtdBDsJ5kGgwz2g8VUB"
+      },
+      {
+        "membership": {
+          "handle": "antto"
+        },
+        "roleAccount": "j4VoVfmuGKZZf6T3XN3Y21gPsVPwhafzcMvsN7iUZiDKDscpm",
+        "rewardAccount": "j4VoVfmuGKZZf6T3XN3Y21gPsVPwhafzcMvsN7iUZiDKDscpm",
+        "stakeAccount": "j4VoVfmuGKZZf6T3XN3Y21gPsVPwhafzcMvsN7iUZiDKDscpm"
+      },
+      {
+        "membership": {
+          "handle": "adams2002"
+        },
+        "roleAccount": "j4WJXCawGPcp8tqNpYUGagReHYBsV3gkw21CrphJLZAdbdzvK",
+        "rewardAccount": "j4WJXCawGPcp8tqNpYUGagReHYBsV3gkw21CrphJLZAdbdzvK",
+        "stakeAccount": "j4WJXCawGPcp8tqNpYUGagReHYBsV3gkw21CrphJLZAdbdzvK"
+      },
+      {
+        "membership": {
+          "handle": "kriptos"
+        },
+        "roleAccount": "j4Wg5sxcHJmjoHYX1tSpN8BAV985p23TPxSvnoFn9xVC844zF",
+        "rewardAccount": "j4Wg5sxcHJmjoHYX1tSpN8BAV985p23TPxSvnoFn9xVC844zF",
+        "stakeAccount": "j4Wg5sxcHJmjoHYX1tSpN8BAV985p23TPxSvnoFn9xVC844zF"
+      },
+      {
+        "membership": {
+          "handle": "Counsellor"
+        },
+        "roleAccount": "j4RRRCqSaBWSUoRSnb1fJzc5tfqkuHv48JxAXDHVF74HseYgx",
+        "rewardAccount": "j4URBuuEddXibSrUQbEA1u9ttbWBvmtnSBprwUbKUTFGCf8W3",
+        "stakeAccount": "j4RRRCqSaBWSUoRSnb1fJzc5tfqkuHv48JxAXDHVF74HseYgx"
+      },
+      {
+        "membership": {
+          "handle": "klaudiusz"
+        },
+        "roleAccount": "j4SecYendKjRTChceHhdytj55JfpNXAVjtNT3XWk4kioLLD5X",
+        "rewardAccount": "j4RRLbsASaTWzNCc7MrptbCFo85nrN49B1ZhAUL88HmdkiBQ9",
+        "stakeAccount": "j4VaHWnbNpgMR9jMFGhJ8eT4vFrUiefy5VdhgZa5hMBkHCXya"
+      },
+      {
+        "membership": {
+          "handle": "Mayor Tee"
+        },
+        "roleAccount": "j4WLm8Gixh4nAAbytXjKk8GLZjJ2kprG1Daxnb7AykHRyhhzi",
+        "rewardAccount": "j4S45zM1vLkW5aUQ9SuLe71zNgRKf7Qn7xjKDmnhbRGvKaWSE",
+        "stakeAccount": "j4S45zM1vLkW5aUQ9SuLe71zNgRKf7Qn7xjKDmnhbRGvKaWSE"
+      },
+      {
+        "membership": {
+          "handle": "Mayor Tee"
+        },
+        "roleAccount": "j4WVrzB2SBVBuB6Ne5ENw7Y6bjFi9ShMQAw9MYbdpsTyT9g9w",
+        "rewardAccount": "j4WLm8Gixh4nAAbytXjKk8GLZjJ2kprG1Daxnb7AykHRyhhzi",
+        "stakeAccount": "j4WVrzB2SBVBuB6Ne5ENw7Y6bjFi9ShMQAw9MYbdpsTyT9g9w"
+      },
+      {
+        "membership": {
+          "handle": "klaudiusz"
+        },
+        "roleAccount": "j4VzAH7fhqvCF4pffaVjXXcWGj1pPnGLcVqod32M2fzhUHvEY",
+        "rewardAccount": "j4RRLbsASaTWzNCc7MrptbCFo85nrN49B1ZhAUL88HmdkiBQ9",
+        "stakeAccount": "j4V6JBevWyG9NZ25MSMgFQY6HfzsRWQQsqsWhuuMuDKTL3PPh"
+      },
+      {
+        "membership": {
+          "handle": "_e9orov_"
+        },
+        "roleAccount": "j4WaFbPR3gzHQcJLkGkcYjCTL8QJLeMu5kDCJ2xrjwuJtCRRX",
+        "rewardAccount": "j4WaFbPR3gzHQcJLkGkcYjCTL8QJLeMu5kDCJ2xrjwuJtCRRX",
+        "stakeAccount": "j4WaFbPR3gzHQcJLkGkcYjCTL8QJLeMu5kDCJ2xrjwuJtCRRX"
+      },
+      {
+        "membership": {
+          "handle": "mishawork2"
+        },
+        "roleAccount": "j4TEbyuoY6eFPehf8D1XU3teLzrPxksajLeWNpNKMcZN9yxgX",
+        "rewardAccount": "j4RtB1Pi7HKbPiBbEXK9b2GLg4UF75tD3PYtjwb17Zw6LtT4k",
+        "stakeAccount": "j4RtB1Pi7HKbPiBbEXK9b2GLg4UF75tD3PYtjwb17Zw6LtT4k"
+      },
+      {
+        "membership": {
+          "handle": "gyroflaw"
+        },
+        "roleAccount": "j4STU2R69FdLYzPweE9Pr6opv7grM58hb73CRen58mcha6Qic",
+        "rewardAccount": "j4STU2R69FdLYzPweE9Pr6opv7grM58hb73CRen58mcha6Qic",
+        "stakeAccount": "j4STU2R69FdLYzPweE9Pr6opv7grM58hb73CRen58mcha6Qic"
+      },
+      {
+        "membership": {
+          "handle": "Hanzo Hazashi"
+        },
+        "roleAccount": "j4T6Bw2LPqG4S8STV5tKzsFxPfqxSQi7tNP1gUDueuHWySEF4",
+        "rewardAccount": "j4T6Bw2LPqG4S8STV5tKzsFxPfqxSQi7tNP1gUDueuHWySEF4",
+        "stakeAccount": "j4TjcdfWaebAbmMCBzu1jaBDFKTaiiTNniPDqBF3dCx3cFKbr"
+      },
+      {
+        "membership": {
+          "handle": "zymhhinkfld"
+        },
+        "roleAccount": "j4UXq8so2XnmLdW68khmmRHzcFa8yz8WWepxnxKm5tPXEV7gV",
+        "rewardAccount": "j4UXq8so2XnmLdW68khmmRHzcFa8yz8WWepxnxKm5tPXEV7gV",
+        "stakeAccount": "j4UXq8so2XnmLdW68khmmRHzcFa8yz8WWepxnxKm5tPXEV7gV"
+      },
+      {
+        "membership": {
+          "handle": "alexsei"
+        },
+        "roleAccount": "j4WPVFfJpRp27SKS1ngCfT94Guy25smHwjZ9JBDkzn1C2y5uU",
+        "rewardAccount": "j4WPVFfJpRp27SKS1ngCfT94Guy25smHwjZ9JBDkzn1C2y5uU",
+        "stakeAccount": "j4WPVFfJpRp27SKS1ngCfT94Guy25smHwjZ9JBDkzn1C2y5uU"
+      },
+      {
+        "membership": {
+          "handle": "kriptos"
+        },
+        "roleAccount": "j4Wg5sxcHJmjoHYX1tSpN8BAV985p23TPxSvnoFn9xVC844zF",
+        "rewardAccount": "j4Wg5sxcHJmjoHYX1tSpN8BAV985p23TPxSvnoFn9xVC844zF",
+        "stakeAccount": "j4VD8rouCGhhzin88NsWQYPZbnEaDSWZyBZKEjw3YU7bzrwRj"
+      },
+      {
+        "membership": {
+          "handle": "lamma9076"
+        },
+        "roleAccount": "j4SZC3oRHnM6dXgM84GnYigh5MLjzuRWRze9bv4v59WaX6kqS",
+        "rewardAccount": "j4SZC3oRHnM6dXgM84GnYigh5MLjzuRWRze9bv4v59WaX6kqS",
+        "stakeAccount": "j4SZC3oRHnM6dXgM84GnYigh5MLjzuRWRze9bv4v59WaX6kqS"
+      },
+      {
+        "membership": {
+          "handle": "Khreed"
+        },
+        "roleAccount": "j4U3RqJq7xvwXe4yuJVJRyNyXkpLTpg47rRqng73EGhgyXmc2",
+        "rewardAccount": "j4U3RqJq7xvwXe4yuJVJRyNyXkpLTpg47rRqng73EGhgyXmc2",
+        "stakeAccount": "j4U3RqJq7xvwXe4yuJVJRyNyXkpLTpg47rRqng73EGhgyXmc2"
+      },
+      {
+        "membership": {
+          "handle": "mikasa"
+        },
+        "roleAccount": "j4St4yEtX2u1HueXRjUdPUxzdzje4buiUmEDe3X3V7KeZYs7m",
+        "rewardAccount": "j4St4yEtX2u1HueXRjUdPUxzdzje4buiUmEDe3X3V7KeZYs7m",
+        "stakeAccount": "j4St4yEtX2u1HueXRjUdPUxzdzje4buiUmEDe3X3V7KeZYs7m"
+      },
+      {
+        "membership": {
+          "handle": "alexsei"
+        },
+        "roleAccount": "j4WPVFfJpRp27SKS1ngCfT94Guy25smHwjZ9JBDkzn1C2y5uU",
+        "rewardAccount": "j4WPVFfJpRp27SKS1ngCfT94Guy25smHwjZ9JBDkzn1C2y5uU",
+        "stakeAccount": "j4UuUerCJbJoaPnTFRacYiXaSDXoYkL88gtB4tkdLYRnmeEtA"
+      },
+      {
+        "membership": {
+          "handle": "abramaria_"
+        },
+        "roleAccount": "j4Uah52cTTwtK5Ef5jVTYKiCvRzQGAGuDsXKqurUU1vCVYakD",
+        "rewardAccount": "j4UEXUfpkcwaQDnwAY9XtMXBZwcMesYgz1pczM1AAnVnV7Nsa",
+        "stakeAccount": "j4RnVddtqAJvRrCw2ewmgd3hoP1gq3J3Qi5tSWHE3p7RGawB8"
+      },
+      {
+        "membership": {
+          "handle": "l1dev"
+        },
+        "roleAccount": "j4RP5odJ8pDGFdaCK3a8kEefHwTXvtzz8C3R1G6o9tF5ALwRz",
+        "rewardAccount": "j4RP5odJ8pDGFdaCK3a8kEefHwTXvtzz8C3R1G6o9tF5ALwRz",
+        "stakeAccount": "j4SX2fZsSsaatUwPcCWDUGVV5HAd3HoYDWherGrFz5Dg6wJQQ"
+      },
+      {
+        "membership": {
+          "handle": "kalpakci"
+        },
+        "roleAccount": "j4RNSpUrCUUL2PyQstaqh1rDB2QRt4dM8qyMcFsKs4sWGpoeV",
+        "rewardAccount": "j4SHYV7JN3fQjVTm6rDwkEmWNwb66HaWFcQBPrN4AjBcgbnFX",
+        "stakeAccount": "j4WVU9GhCNmbCDyp58FtKUWRhzxZ49pjfcyRUwndNBrDwTEpJ"
+      },
+      {
+        "membership": {
+          "handle": "jen4ph"
+        },
+        "roleAccount": "j4UztNd7U4MnV8qP6TKGjLQ93rnkcdEWCjhpfgQPfq7Tndm2r",
+        "rewardAccount": "j4Wchz5SU9tPTudtV6Rh4GEc7Jgg7xD9SL7r5jr6MSVgrdtrj",
+        "stakeAccount": "j4Wchz5SU9tPTudtV6Rh4GEc7Jgg7xD9SL7r5jr6MSVgrdtrj"
+      },
+      {
+        "membership": {
+          "handle": "andromalius"
+        },
+        "roleAccount": "j4TWNszR3co74kPjkzQKbZBUTQXs5CJo34fMHdNTsCzvoTWqG",
+        "rewardAccount": "j4TWNszR3co74kPjkzQKbZBUTQXs5CJo34fMHdNTsCzvoTWqG",
+        "stakeAccount": "j4TWNszR3co74kPjkzQKbZBUTQXs5CJo34fMHdNTsCzvoTWqG"
+      },
+      {
+        "membership": {
+          "handle": "Codefikeyz"
+        },
+        "roleAccount": "j4X2wX6MeA7ZtcU8SCPnM8ndzfAiEB7EXHNwBX3dYiZCDDoL6",
+        "rewardAccount": "j4X2wX6MeA7ZtcU8SCPnM8ndzfAiEB7EXHNwBX3dYiZCDDoL6",
+        "stakeAccount": "j4X2wX6MeA7ZtcU8SCPnM8ndzfAiEB7EXHNwBX3dYiZCDDoL6"
+      },
+      {
+        "membership": {
+          "handle": "Omer_OzdemirTR"
+        },
+        "roleAccount": "j4Sk68pqYVy6QRz4tfLKsx6nRrMowWRunZSrzBBJ2kopijpaZ",
+        "rewardAccount": "j4Sk68pqYVy6QRz4tfLKsx6nRrMowWRunZSrzBBJ2kopijpaZ",
+        "stakeAccount": "j4Sk68pqYVy6QRz4tfLKsx6nRrMowWRunZSrzBBJ2kopijpaZ"
+      },
+      {
+        "membership": {
+          "handle": "mkblockchaindev"
+        },
+        "roleAccount": "j4V6SRWboethmSjWi6JE7A2sYdAmQtn1oTT1PwMdcpi7rUC7k",
+        "rewardAccount": "j4UdvyWC8dGtUt2x4crAVWDYaY2u6eXNtoAofRDQieqQoRPRU",
+        "stakeAccount": "j4UdvyWC8dGtUt2x4crAVWDYaY2u6eXNtoAofRDQieqQoRPRU"
+      },
+      {
+        "membership": {
+          "handle": "Vladiccck"
+        },
+        "roleAccount": "j4WiujhLHUJGPYoQQpLqp96h5Yx9NDUBcYVTCa6dJ2xEiH27d",
+        "rewardAccount": "j4WiujhLHUJGPYoQQpLqp96h5Yx9NDUBcYVTCa6dJ2xEiH27d",
+        "stakeAccount": "j4WiujhLHUJGPYoQQpLqp96h5Yx9NDUBcYVTCa6dJ2xEiH27d"
+      },
+      {
+        "membership": {
+          "handle": "abramaria_"
+        },
+        "roleAccount": "j4Uah52cTTwtK5Ef5jVTYKiCvRzQGAGuDsXKqurUU1vCVYakD",
+        "rewardAccount": "j4RnVddtqAJvRrCw2ewmgd3hoP1gq3J3Qi5tSWHE3p7RGawB8",
+        "stakeAccount": "j4UGzftFxnjnu84A3E9RWsXTFivh9he1pwssqyJBqxGiuAEpy"
+      },
+      {
+        "membership": {
+          "handle": "crptowolf"
+        },
+        "roleAccount": "j4VGrpnBNwmMzdEpKbGrAEzSNh5cXnwahCCdx417bQWWqFXM4",
+        "rewardAccount": "j4Se5h3YqgQcNGqiQqSrUopZtEtzSz3yK835VHJz8QjnWk7Uv",
+        "stakeAccount": "j4VGrpnBNwmMzdEpKbGrAEzSNh5cXnwahCCdx417bQWWqFXM4"
+      },
+      {
+        "membership": {
+          "handle": "vikan#4315"
+        },
+        "roleAccount": "j4UQ7kLi2cRy2th6VDTyKrjEKcmeGtGnSp98jN1t6uFsTmWKY",
+        "rewardAccount": "j4UQ7kLi2cRy2th6VDTyKrjEKcmeGtGnSp98jN1t6uFsTmWKY",
+        "stakeAccount": "j4UQ7kLi2cRy2th6VDTyKrjEKcmeGtGnSp98jN1t6uFsTmWKY"
+      },
+      {
+        "membership": {
+          "handle": "bwhm0"
+        },
+        "roleAccount": "j4Rf3dNosAJdLpCtqvm226aJvg868UtkMczgUNisLvASJy1ck",
+        "rewardAccount": "j4WMc7AoecZeYhp95Rh8DTmPfWRF4REyXfdwMVpQbpT3TKHRx",
+        "stakeAccount": "j4Sq83pcTsGty9km6DwpwXo9b8XcEByqCs6fFCb9D9ZJCtXF2"
+      },
+      {
+        "membership": {
+          "handle": "mokhtar"
+        },
+        "roleAccount": "j4RxhVrQYzKvTm9XHfmaEzKiVAT4AetMJsurSV3Z2Friz8rWa",
+        "rewardAccount": "j4W34M9gBApzi8Sj9nXSSHJmv3UHnGKecyTFjLGnmxtJDi98L",
+        "stakeAccount": "j4VpBHeQqqeEB4MmqaVHxQ7STXzYfJF4EQ3kaNLbScV3Nw92X"
+      },
+      {
+        "membership": {
+          "handle": "itornews"
+        },
+        "roleAccount": "j4VN6NjGEXGvGMqcQWruVeDnBLL8kUtLWkKPRwUiPCPVEmWt1",
+        "rewardAccount": "j4VN6NjGEXGvGMqcQWruVeDnBLL8kUtLWkKPRwUiPCPVEmWt1",
+        "stakeAccount": "j4VN6NjGEXGvGMqcQWruVeDnBLL8kUtLWkKPRwUiPCPVEmWt1"
+      },
+      {
+        "membership": {
+          "handle": "tomato"
+        },
+        "roleAccount": "j4Te4mi7SzVSbBvD2uN8uSgLno9EDp5rWampbyjJVFPoKVjv6",
+        "rewardAccount": "j4WtP3CTwGBV1XzuPQhY6VuMAJXrzNFPAWbAUywDL53MP7Lpz",
+        "stakeAccount": "j4WQavk1kz2hrS7Xyd44E2BBYgoP8EGw1iwwFKRNMintF8LZK"
+      },
+      {
+        "membership": {
+          "handle": "Magda"
+        },
+        "roleAccount": "j4Ub5YWLnFYs3WYc1g63eTLiLXbViA87WRZSox3Lc5Ymf6tSp",
+        "rewardAccount": "j4WDftVCoz5XJMhLZnsKq8E9YqQCt1im361UicJRjEoFQxp1K",
+        "stakeAccount": "j4Ub5YWLnFYs3WYc1g63eTLiLXbViA87WRZSox3Lc5Ymf6tSp"
+      },
+      {
+        "membership": {
+          "handle": "freakstatic"
+        },
+        "roleAccount": "j4T684ouWFzvZhWDaD1mDutA2uhKf6qujJkvf8q7HDZotYF6z",
+        "rewardAccount": "j4Uks3Hc4Y7kZhTvoXu8v4ZBwB45XQ3FBAoBeEXkeHKr7Msev",
+        "stakeAccount": "j4Uks3Hc4Y7kZhTvoXu8v4ZBwB45XQ3FBAoBeEXkeHKr7Msev"
+      },
+      {
+        "membership": {
+          "handle": "klaudiusz"
+        },
+        "roleAccount": "j4WfoetoEVPwK2AEDc96mrcjUrU9YYwvmeUnwsU2uq1SgB88h",
+        "rewardAccount": "j4RRLbsASaTWzNCc7MrptbCFo85nrN49B1ZhAUL88HmdkiBQ9",
+        "stakeAccount": "j4SHnwRicY7q2QuazL3FP2nKx21quWKNwzFgayU5bCK8CCZfc"
+      },
+      {
+        "membership": {
+          "handle": "blrhc"
+        },
+        "roleAccount": "j4WPf2womuAXiVE5xBYg5sJ1ff3LJhCL6zMK16yk1hR6t95jZ",
+        "rewardAccount": "j4WPf2womuAXiVE5xBYg5sJ1ff3LJhCL6zMK16yk1hR6t95jZ",
+        "stakeAccount": "j4WPf2womuAXiVE5xBYg5sJ1ff3LJhCL6zMK16yk1hR6t95jZ"
+      },
+      {
+        "membership": {
+          "handle": "Codefikeyz"
+        },
+        "roleAccount": "j4TZJCACAWao9bnh5k86qeRW2QhNVNkf9eEw1Vz4V8ZeqD4u4",
+        "rewardAccount": "j4TZJCACAWao9bnh5k86qeRW2QhNVNkf9eEw1Vz4V8ZeqD4u4",
+        "stakeAccount": "j4TZJCACAWao9bnh5k86qeRW2QhNVNkf9eEw1Vz4V8ZeqD4u4"
+      },
+      {
+        "membership": {
+          "handle": "zhsojib2020"
+        },
+        "roleAccount": "j4UjTFU1t7nCLt6iY2F1cj2qtA96Ax5Qu1XT5Z8V5a7ARaRXU",
+        "rewardAccount": "j4UjTFU1t7nCLt6iY2F1cj2qtA96Ax5Qu1XT5Z8V5a7ARaRXU",
+        "stakeAccount": "j4UjTFU1t7nCLt6iY2F1cj2qtA96Ax5Qu1XT5Z8V5a7ARaRXU"
+      },
+      {
+        "membership": {
+          "handle": "klaudiusz"
+        },
+        "roleAccount": "j4SecYendKjRTChceHhdytj55JfpNXAVjtNT3XWk4kioLLD5X",
+        "rewardAccount": "j4RRLbsASaTWzNCc7MrptbCFo85nrN49B1ZhAUL88HmdkiBQ9",
+        "stakeAccount": "j4THSHNZC52KJRfm8DX5gb91eejZC85AizQRpc1YeaTxY5mZK"
+      },
+      {
+        "membership": {
+          "handle": "mkblockchaindev"
+        },
+        "roleAccount": "j4V6SRWboethmSjWi6JE7A2sYdAmQtn1oTT1PwMdcpi7rUC7k",
+        "rewardAccount": "j4UdvyWC8dGtUt2x4crAVWDYaY2u6eXNtoAofRDQieqQoRPRU",
+        "stakeAccount": "j4UdvyWC8dGtUt2x4crAVWDYaY2u6eXNtoAofRDQieqQoRPRU"
+      },
+      {
+        "membership": {
+          "handle": "gyroflaw"
+        },
+        "roleAccount": "j4Vs3k1p6oEpPUeVzF98ipWU4Fw94HynjmEkyqz9PLEHMyQVf",
+        "rewardAccount": "j4Vs3k1p6oEpPUeVzF98ipWU4Fw94HynjmEkyqz9PLEHMyQVf",
+        "stakeAccount": "j4Vs3k1p6oEpPUeVzF98ipWU4Fw94HynjmEkyqz9PLEHMyQVf"
+      },
+      {
+        "membership": {
+          "handle": "BezyOfficial"
+        },
+        "roleAccount": "j4WdTsZ5soiNtG616wdwsFgGiGZ5i9tyXgP8WGi5gnvpgmpFW",
+        "rewardAccount": "j4WdTsZ5soiNtG616wdwsFgGiGZ5i9tyXgP8WGi5gnvpgmpFW",
+        "stakeAccount": "j4WdTsZ5soiNtG616wdwsFgGiGZ5i9tyXgP8WGi5gnvpgmpFW"
+      },
+      {
+        "membership": {
+          "handle": "SASY"
+        },
+        "roleAccount": "j4S9GGkcHQ14Kanux1TpQFJ5EnhoRBKoigPPNzEyrkP7XYqKH",
+        "rewardAccount": "j4S9GGkcHQ14Kanux1TpQFJ5EnhoRBKoigPPNzEyrkP7XYqKH",
+        "stakeAccount": "j4WGJMjA2DKsdBLCUiG3iTTNLTUoAi8QpaRCdms9LVPemvA3n"
+      },
+      {
+        "membership": {
+          "handle": "Polaris"
+        },
+        "roleAccount": "j4VMKmb3aSf2xvYDkME5yeAmWz7C6An4pSzX4qRxgXPwrz9RQ",
+        "rewardAccount": "j4VMKmb3aSf2xvYDkME5yeAmWz7C6An4pSzX4qRxgXPwrz9RQ",
+        "stakeAccount": "j4VMKmb3aSf2xvYDkME5yeAmWz7C6An4pSzX4qRxgXPwrz9RQ"
+      },
+      {
+        "membership": {
+          "handle": "JonnyBoy"
+        },
+        "roleAccount": "j4RLsr6fWYPMW3RAhzNS2CAdMQGu9c4w2ZdsqHLjTPZrnuacA",
+        "rewardAccount": "j4RLsr6fWYPMW3RAhzNS2CAdMQGu9c4w2ZdsqHLjTPZrnuacA",
+        "stakeAccount": "j4RLsr6fWYPMW3RAhzNS2CAdMQGu9c4w2ZdsqHLjTPZrnuacA"
+      },
+      {
+        "membership": {
+          "handle": "adovrn"
+        },
+        "roleAccount": "j4ReHfvmr1uFDmuGYpDFJuxrZZPzHqYj6k4A8PuoyBCcaZcJw",
+        "rewardAccount": "j4ReHfvmr1uFDmuGYpDFJuxrZZPzHqYj6k4A8PuoyBCcaZcJw",
+        "stakeAccount": "j4VkfMbp4NYtqzR5wbd9JUCrXBs7TvqaJF4mc9fCqau8skcdE"
+      },
+      {
+        "membership": {
+          "handle": "firuz89"
+        },
+        "roleAccount": "j4VzzAyaFKRvAaG6Vy7iVvecwMcyGpFGiMMQpQCEv96by3cCW",
+        "rewardAccount": "j4Tic1c6urEgmgtrrhWouMvPcrL69yZVZnxFcarjCLDhVRqhg",
+        "stakeAccount": "j4VzzAyaFKRvAaG6Vy7iVvecwMcyGpFGiMMQpQCEv96by3cCW"
+      },
+      {
+        "membership": {
+          "handle": "prontera"
+        },
+        "roleAccount": "j4UGqPQaUrEtj2iRNwsMitgBm3xLajys2AqBAJE3F3s79jXMp",
+        "rewardAccount": "j4UGqPQaUrEtj2iRNwsMitgBm3xLajys2AqBAJE3F3s79jXMp",
+        "stakeAccount": "j4TNTtgFH3EVTwFNd8W9y3J2PyrEJtSqYu7JYyHfgAfffTMFt"
+      },
+      {
+        "membership": {
+          "handle": "spat_sochi"
+        },
+        "roleAccount": "j4T1oLn74MAs9V2puZv7qcmc8QGkuqZJThTA7Di1ii7fXKUTD",
+        "rewardAccount": "j4S47wTFNZNXW3PeyerymhF9smDfDLFgXHgUnmKSwcGtPhyhi",
+        "stakeAccount": "j4S47wTFNZNXW3PeyerymhF9smDfDLFgXHgUnmKSwcGtPhyhi"
+      },
+      {
+        "membership": {
+          "handle": "tomato"
+        },
+        "roleAccount": "j4RxMioxyQsFbcUQJC6sh11jPcK3vWqfG4vGin2fWasJcMzrr",
+        "rewardAccount": "j4RxMioxyQsFbcUQJC6sh11jPcK3vWqfG4vGin2fWasJcMzrr",
+        "stakeAccount": "j4TbA9PGTdmyA8EAZ6R5bRoBjJuUSkG2iwGDBFh7matQ4Fkfo"
+      },
+      {
+        "membership": {
+          "handle": "Codefikeyz"
+        },
+        "roleAccount": "j4WrfpDjk9nNsqMtdyZUwW7EeTCrK8jNKRyugZMw2GhkfZxmk",
+        "rewardAccount": "j4WrfpDjk9nNsqMtdyZUwW7EeTCrK8jNKRyugZMw2GhkfZxmk",
+        "stakeAccount": "j4WrfpDjk9nNsqMtdyZUwW7EeTCrK8jNKRyugZMw2GhkfZxmk"
+      },
+      {
+        "membership": {
+          "handle": "sieemma"
+        },
+        "roleAccount": "j4TijQ6encdP5Uvg5xU4c1kLPmwJUF9DMgP6LkBgRuERXWaLs",
+        "rewardAccount": "j4RjUyVtdXifzmK11XjqfUD1eBaodxkKTbvgPDE8DDsPFbjkY",
+        "stakeAccount": "j4WFf8mpHdhNsqtqWeq1GCw6Xqi2ghNUAimpbWwuhJQwBv6Zg"
+      }
+    ]

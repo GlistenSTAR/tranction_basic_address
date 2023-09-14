@@ -51,47 +51,55 @@ require('dotenv').config();
 // }
 // get_related_address()
 
-// const middleAddress = require('./UserAddressOnMEXC.json')
-// const invest_address = require('./invest_address.json')
-// const handleList = require('./handle_list.json')
-// let finial_result = []
+const middleAddress = require('./UserAddressOnMEXC.json')
+const invest_address = require('./invest_address.json')
+const handleList = require('./handle_list.json')
+let finial_result = []
 
-// example = async () => {
-//     for (addr of middleAddress) {
-//         await axios({
-//             method: 'post',
-//             url: "https://joystream.api.subscan.io/api/scan/transfers",
-//             headers: {
-//                 "Content-Type": "application/json",
-//                 "X-API-Key": process.env.SUBSCAN_API,
-//             },
-//             data: {
-//                 "row": 100,
-//                 "address": addr,
-//                 "direction": "received"
-//             }
-//         }).then(function (res) {
-//             data = res.data.data.transfers
-//             data.forEach(element => {
-//                 if (invest_address.find((el) => el == element.from)) {
-//                     finial_result.push({ address: element.from, amount: element.amount })
-//                     handlerName = handleList.find((handle)=> {
-//                         if(handle.roleAccount == element.from){
-//                             return handle.membership.handle
-//                         }
-//                     })
-//                     console.log("from: " + element.from + " to: " + element.to + " handle: " + handlerName.membership.handle + " amount: " + element.amount)
-//                 }
-//             });
-//         }).catch(function (error) {
-//             console.log(error)
-//             // console.log("error" + addr)
-//             data = false
-//         });
-//     }
-// };
+example = async () => {
+    let a = 0;
+    for (addr of middleAddress) {
+        await axios({
+            method: 'post',
+            url: "https://joystream.api.subscan.io/api/scan/transfers",
+            headers: {
+                "Content-Type": "application/json",
+                "X-API-Key": process.env.SUBSCAN_API,
+            },
+            data: {
+                "row": 100,
+                "address": addr,
+                "direction": "received"
+            }
+        }).then(function (res) {
+            data = res.data.data.transfers
+            data.forEach(element => {
+                if (invest_address.find((el) => el == element.from)) {
+                    handlerName = handleList.find((handle) => {
+                        if (handle.roleAccount == element.from) {
+                            return handle.membership.handle
+                        }
+                    })
+                    finial_result.push({ id: a++, from: element.from, to: element.to, amount: element.amount, handle: handlerName.membership.handle })
+                    console.log("from: " + element.from + " to: " + element.to + " handle: " + handlerName.membership.handle + " amount: " + element.amount)
+                }
+            });
+        }).catch(function (error) {
+            console.log(error)
+            // console.log("error" + addr)
+            data = false
+        });
+    }
+    console.log("finial_result", finial_result)
+    fs.writeFile('filtered_result.json', JSON.stringify(finial_result), err => {
+        if (err) {
+            console.error(err);
+        }
+        console.log('file saved')
+    });
+};
 
-// example()
+example()
 
 // middleAddress.map(async (addr) => {
 //     // let r = middleAddressAmount.map(async (item) => {
@@ -119,4 +127,4 @@ require('dotenv').config();
 //     // });
 // })
 
-const finialResult = require("./finial_result.json")
+// const finialResult = require("./finial_result.json")
